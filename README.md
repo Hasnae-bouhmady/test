@@ -1,2 +1,2 @@
 # test
-this is for testing gethub
+this is for testing github
